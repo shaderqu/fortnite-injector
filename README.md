@@ -1,2 +1,1 @@
-# fortnite-injector
-fortnite pasted injector(
+This injector is used by some p2c
